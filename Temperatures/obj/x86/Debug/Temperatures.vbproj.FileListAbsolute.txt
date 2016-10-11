@@ -1,0 +1,14 @@
+C:\Users\Student\AppData\Local\Temporary Projects\Temperatures\bin\Debug\Temperatures.exe
+C:\Users\Student\AppData\Local\Temporary Projects\Temperatures\bin\Debug\Temperatures.pdb
+C:\Users\Student\AppData\Local\Temporary Projects\Temperatures\bin\Debug\Temperatures.xml
+C:\Users\Student\AppData\Local\Temporary Projects\Temperatures\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Student\AppData\Local\Temporary Projects\Temperatures\obj\x86\Debug\Temperatures.Resources.resources
+C:\Users\Student\AppData\Local\Temporary Projects\Temperatures\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Student\AppData\Local\Temporary Projects\Temperatures\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Student\AppData\Local\Temporary Projects\Temperatures\obj\x86\Debug\Temperatures.exe
+C:\Users\Student\AppData\Local\Temporary Projects\Temperatures\obj\x86\Debug\Temperatures.xml
+C:\Users\Student\AppData\Local\Temporary Projects\Temperatures\obj\x86\Debug\Temperatures.pdb
+C:\Users\Student\AppData\Local\Temporary Projects\Temperatures\obj\x86\Debug\Temperatures.Temperatures.resources
+d:\documents\student\documents\visual studio 2010\Projects\Temperatures\Temperatures\obj\x86\Debug\Temperatures.exe
+d:\documents\student\documents\visual studio 2010\Projects\Temperatures\Temperatures\obj\x86\Debug\Temperatures.xml
+d:\documents\student\documents\visual studio 2010\Projects\Temperatures\Temperatures\obj\x86\Debug\Temperatures.pdb
